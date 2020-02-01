@@ -32,7 +32,7 @@ sidebar:
       - idiom: English
         level: Professional
 
-career-profile:
+career-profile: 
     title:  Objective
     summary:  |
       To utilize business knowledge and data analysis skill to plan and develop a business model 
@@ -44,7 +44,7 @@ education:
       details:  |
         SAP ERP and Robotic Process Analytics
   
-Work Experiences: 
+work-experiences: 
     - role:  Educate Program Intern
       time:  Jan 2019 - Jul 2019
       company:  Amazon Web Services Korea LLC, Seoul
@@ -64,7 +64,7 @@ Work Experiences:
         Developed educational content for the Konkuk University coding class
         Acted as the primary instructor of the Konkuk University coding class in November 2018
           
-Activities:  
+activities:  
     title:  Activities
     assignments:  
       - title:  "ILIL ILSIK : Editor"
@@ -78,7 +78,7 @@ Activities:
         tagline:  "Learned and propagated AWS based on understanding of the lastest IT Technologies and the cloud"
 
 
-skills:
+skills: 
     title: Skills &amp; Proficiency
 
     toolset:
@@ -99,6 +99,3 @@ skills:
 
       - name: Power Point & Word & Excel
         level: 90%
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
