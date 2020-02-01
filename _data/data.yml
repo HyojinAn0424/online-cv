@@ -64,17 +64,17 @@ Work Experiences:
         Developed educational content for the Konkuk University coding class
         Acted as the primary instructor of the Konkuk University coding class in November 2018
           
-Activities:
-    title:  Activitie
+Activities:  
+    title:  Activities
     assignments:  
-      - title:  ILIL ILSIK : Editor
-        website:   instagram.com/ilil_ilsik
+      - title:  "ILIL ILSIK : Editor"
+        website:   "instagram.com/ilil_ilsik"
         tagline:  "Communicate current and general issues from various fields one day at a glance on the card news"
-      - title:  Data Science Club : Executive and Study Leader
+      - title:  "Data Science Club : Executive and Study Leader"
         website:  "coalastudy.com/p/%EC%BD%94%EC%95%8C%EB%9D%BC%EC%9C%A0%EB%8B%88%EB%B8%8C"
         tagline:  "Studied Python, data analysis, and fundamental machine learning and Participated in a hackathon competition "
-      - title:  AWSKRUG University Student Group : Member
-        website:  facebook.com/ausgkr/
+      - title:  "AWSKRUG University Student Group : Member"
+        website:  "facebook.com/ausgkr/"
         tagline:  "Learned and propagated AWS based on understanding of the lastest IT Technologies and the cloud"
 
 
