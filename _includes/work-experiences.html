@@ -1,0 +1,37 @@
+{% assign work-experiences = site.data.data.work-experiences %}
+{% if work-experiences %}
+<section class="section work-experiences-section">
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-briefcase fa-stack-1x fa-inverse"></i>
+    </span>
+    Work Experiences
+  </h2>
+
+  {% for work-experience in work-experiences %}
+  <div class="item">
+
+    <div class="meta">
+
+      <div class="upper-row">
+        <h3 class="job-title">{{ work-experience.role }}</h3>
+        <div class="time">{{ work-experience.time }}</div>
+      </div><!--//upper-row-->
+
+      <div class="company">{{ work-experience.company }}</div>
+
+    </div><!--//meta-->
+
+    {% if work-experience.details %}
+    <div class="details">
+      {{ work-experience.details | markdownify }}
+    </div><!--//details-->
+    {% endif %}
+
+  </div><!--//item-->
+  {% endfor %}
+
+</section><!--//section-->
+{% endif %}
+
